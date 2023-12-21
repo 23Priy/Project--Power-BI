@@ -37,7 +37,7 @@ Snap of new calculated column ,
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/9873aac3-0c29-4ec5-ba6b-7ef7b794c960)
 
 # Insights
 
