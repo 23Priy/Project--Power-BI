@@ -1,5 +1,7 @@
 # Dashboard
 
+# Data Used
+Data used to make this dashboard is added to file named Sample Superstore which is a .xlsx file.
 ## Problem Statement
 
 This dashboard contains the report that was prepared  initially in Tableau and had to be migrated into Power BI. I studied the report as to what visuals are used , DAX used and prepared the same report in Power BI.
