@@ -26,16 +26,13 @@ for creating new column following DAX expression was written;
        
         order days = ABS(Merge1[Ship Date]- Merge1[Order Date])
         Shipment Time = IF(Merge1[order days]>3,"Shipped Late") & IF(Merge1[order days]<3,"Shipped Early") & IF(Merge1[order days]=3,"Shipped On Time
-        Profit Per Order = DIVIDE(SUM('Orders (3)'[Profit]),SUM('Orders (3)'[Quantity]))
-        Sales Per Customer = DIVIDE(SUM('Orders (3)'[Sales]),COUNT('Orders (3)'[Customer Name]))
         
 Snap of new calculated column ,
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_1](https://github.com/23Priy/Project--Power-BI/assets/151018390/09e99452-6244-409f-be5f-25d579dbe012)
+
 
         
---------------
-
  
  # Report Snapshot (Power BI DESKTOP)
 
