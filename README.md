@@ -38,6 +38,11 @@ Snap of new calculated column ,
 
  
 ![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/9873aac3-0c29-4ec5-ba6b-7ef7b794c960)
+![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/dae8b5e7-5af9-4a0e-a81d-d5aa2582cfaf)
+![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/18dc8cfc-f88b-401f-8324-1672a9a1299b)
+![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/fc2e8346-5703-4d21-b307-bcda5f2f1843)
+![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/ad355014-d6e4-4d14-acc7-2ed603938301)
+
 
 # Insights
 
