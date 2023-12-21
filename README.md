@@ -12,7 +12,7 @@ This dashboard contains the report that was prepared  initially in Tableau and h
 - Step 1 : Load data into Power BI Desktop, dataset is a .xlsx file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4 : It was observed that in none of the columns errors & empty values were present except column named "Arrival Delay".
+- Step 4 : It was observed that in none of the columns errors & empty values were present.
 - Step 5 : In the report view, under the view tab, theme was selected.
 - Step 6 : Visual filters (Slicers) were added as needed on every Page.
 - Step 7 : 5 Pages made are :- Executive view, Customer analysis, Shipping Analysis, Order Sumamary And Sales forecast.
@@ -26,10 +26,12 @@ for creating new column following DAX expression was written;
        
         order days = ABS(Merge1[Ship Date]- Merge1[Order Date])
         Shipment Time = IF(Merge1[order days]>3,"Shipped Late") & IF(Merge1[order days]<3,"Shipped Early") & IF(Merge1[order days]=3,"Shipped On Time
+        Profit ratio = DIVIDE('Orders (3)'[Profit],'Orders (3)'[Sales])
         
 Snap of new calculated column ,
 
 ![Snap_1](https://github.com/23Priy/Project--Power-BI/assets/151018390/09e99452-6244-409f-be5f-25d579dbe012)
+![Snap_2](https://github.com/23Priy/Project--Power-BI/assets/151018390/afa200c6-0402-4075-8707-cd65ef90925f)
 
 
         
