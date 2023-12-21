@@ -1,6 +1,4 @@
-# Airlines-Dashboard
-
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+# Dashboard
 
 ## Problem Statement
 
@@ -43,18 +41,3 @@ Snap of new calculated column ,
 ![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/fc2e8346-5703-4d21-b307-bcda5f2f1843)
 ![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/ad355014-d6e4-4d14-acc7-2ed603938301)
 
-
-# Insights
-
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
-
-Following inferences can be drawn from the dashboard;
-.  
-  
-  ### [3] Average Delay 
-  
-      a) Average delay in arrival(minutes) - 15.09
-      b) Average delay in departure(minutes) - 14.71
-Average delay will change if different visual filters will be applied.
-
- ### [4] Some other insights
