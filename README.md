@@ -1,16 +1,16 @@
-# Dashboard
+# Power BI - Data Visualization
 
 ## Data Used
-Data used to make this dashboard is added to the file section named Sample Superstore which is a .xlsx file.
+Data used to make the report is added to the file section named "Sample Superstore" which is a .xlsx file.
 ## Problem Statement
 
-This dashboard contains the report that was prepared  initially in Tableau and had to be migrated into Power BI. I studied the report as to what visuals are used , DAX used and prepared the same report in Power BI.
+The report that was prepared  initially in Tableau and had to be migrated/reflect it into Power BI. I studied the report as to what visuals are used , DAX used to create calculated columns and measures and prepared the same report in Power BI.
 
 
 ### Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a .xlsx file.
-- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
+- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options to check for any error or empty data values. 
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present.
 - Step 5 : In the report view, under the view tab, theme was selected.
@@ -44,4 +44,8 @@ Snap of new calculated column ,
 ![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/18dc8cfc-f88b-401f-8324-1672a9a1299b)
 ![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/fc2e8346-5703-4d21-b307-bcda5f2f1843)
 ![Dashboard_upload](https://github.com/23Priy/Project--Power-BI/assets/151018390/ad355014-d6e4-4d14-acc7-2ed603938301)
+ 
 
+Outcomes Achieved
+
+This was my first project report, I made in Power BI after completing Power BI training. Tt was just to practice my skills in a practical problem so that I learn from my mistakes and uncover my depth of knowledge of the tool which i did and was a good experience to do so. 
